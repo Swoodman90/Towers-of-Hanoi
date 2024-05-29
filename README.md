@@ -1,3 +1,3 @@
 # Towers-of-Hanoi
-Towers of Hanoi puzzle implemented with stack and node data structures.
+Towers of Hanoi puzzle implemented with nodes and stack data structure.
 Designed to play in your terminal.
